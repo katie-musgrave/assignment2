@@ -1,0 +1,292 @@
+.one{
+    position: absolute;
+    width: 1096px;
+    height: 75px;
+    left: 619px;
+    top: -4px;
+
+}
+
+.two{
+    position: absolute;
+    width: 712px;
+    height: 137px;
+    left: -20px;
+    top: 0px;
+z-index: -1;
+}
+.three{
+    position: absolute;
+    width: 316px;
+    height: 189px;
+    left: -3px;
+    top: 122px;
+
+}
+.four{
+    position: absolute;
+    width: 380px;
+    height: 189px;
+    left: 310px;
+    top: 122px;
+}
+.five{
+    position: absolute;
+    width: 688px;
+    height: 128px;
+    left: 676px;
+    top: 58px;
+    
+    z-index: -1; 
+}
+.six{
+    position: absolute;
+    width: 282px;
+    height: 223px;
+    left: 676px;
+    top: 166px;
+}
+.seven{
+    position: absolute;
+    width: 367px;
+    height: 293px;
+    left: 958px;
+    top: 176px;
+
+}
+.eight{
+    position: absolute;
+    width: 412px;
+    height: 354px;
+    left: 1303px;
+    top: 38px;
+z-index: -1;
+
+}
+.nine{
+    position: absolute;
+    width: 695px;
+    height: 155px;
+    left: -10px;
+    top: 307px;
+}
+.ten{
+    position: absolute;
+    width: 299px;
+    height: 332px;
+    left: 670px;
+    top: 385px;
+
+}
+.eleven{
+    position: absolute;
+    width: 398px;
+    height: 84px;
+    left: 1317px;
+    top: 385px;  
+}
+.twelve{
+    position: absolute;
+width: 693px;
+height: 34px;
+left: 958px;
+top: 467px;
+     
+}
+.thirteen{
+    position: absolute;
+    width: 698px;
+    height: 113px;
+    left: -8px;
+    top: 447px;
+z-index: -1;
+}
+.fourteen{
+    position: absolute;
+    width: 240px;
+    height: 240px;
+    left: 954px;
+    top: 494px;
+z-index: -1;
+
+}
+
+.fifteen{
+    position: absolute;
+    width: 528px;
+    height: 305px;
+    left: 1187px;
+    top: 454px;
+    
+     
+    
+z-index: -1;
+}
+.sixteen{
+
+    position: absolute;
+    width: 483px;
+    height: 357px;
+    left: -20px;
+    top: 544px;
+
+}
+.seventeen{
+position: absolute;
+width: 416.21px;
+height: 174px;
+left: 385.68px;
+top: 550px;
+transform: matrix(1, -0.01, 0.01, 1, 0, 0);
+    z-index: -1;
+}
+.eighteen{
+    position: absolute;
+    width: 804px;
+    height: 187px;
+    left: 448px;
+    top: 706px;
+    
+}
+.nineteen{
+    position: absolute;
+    width: 1239px;
+    height: 149px;
+    left: -7px;
+    top: 891px;
+}
+.twenty{
+    position: absolute;
+    width: 494px;
+    height: 376px;
+    left: 1221px;
+    top: 664px; 
+}
+.coin{
+position: absolute;
+width: 164px;
+height: 171px;
+left: 1294.49px;
+top: 23.03px;
+transform: rotate(28.55deg);
+}
+a:hover{
+    opacity: 0.5;
+}
+
+@media (max-width: 600px){
+  .one{ 
+    position: absolute;
+width: 447px;
+height: 31px;
+left: -16px;
+top: 0px;
+  
+  }  
+  .two{
+    position: absolute;
+width: 439px;
+height: 86px;
+left: -16px;
+top: 20px;
+  
+  }
+  .three{
+    position: absolute;
+    width: 195px;
+    height: 116px;
+    left: -6px;
+    top: 96px; 
+  }
+  .four{
+    position: absolute;
+    width: 236px;
+    height: 116px;
+    left: 186px;
+    top: 96px;
+       
+  }
+  .eighteen{
+    
+position: absolute;
+width: 412px;
+height: 108px;
+left: 2px;
+top: 198px;  
+  }
+
+.sixteen{
+    position: absolute;
+    width: 457px;
+    height: 338px;
+    left: -26px;
+    top: 252px;
+       
+}
+.nine{
+    position: absolute;
+    width: 447px;
+    height: 96px;
+    left: -16px;
+    top: 581px;  
+}
+.seven{
+    position: absolute;
+    width: 216px;
+    height: 172px;
+    left: -13px;
+    top: 600px;  
+}
+.eight{
+    position: absolute;
+    width: 241px;
+    height: 206px;
+    left: 190px;
+    top: 520px;
+    z-index: -1;
+      
+}
+.coin{
+    position: absolute;
+    width: 102.6px;
+    height: 106.99px;
+    left: 302.71px;
+    top: 637.19px;
+    transform: matrix(0.88, 0.48, -0.48, 0.88, 0, 0);   
+}
+.floorward{
+    position: absolute;
+    width: 233px;
+    height: 49px;
+    left: 198px;
+    top: 722px; 
+    z-index: -1;
+}
+.twelve{
+    position: absolute;
+    width: 406px;
+    height: 20px;
+    left: -13px;
+    top: 771px;
+      
+}
+.fourteen{
+position: absolute;
+width: 131px;
+height: 132px;
+left: -5px;
+top: 787px;
+
+}
+.fifteen{
+    position: absolute;
+    width: 309px;
+    height: 178px;
+    left: 122px;
+    top: 762px;  
+    z-index: -1;
+}
+body{
+    background-color:  #832118;
+}
+}

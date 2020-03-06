@@ -1,0 +1,50 @@
+.one{
+    position: absolute;
+    width: 761px;
+    height: 464px;
+    left: 638px;
+    top: 48px;  
+}
+.two{
+position: absolute;
+width: 898px;
+height: 611px;
+left: 53px;
+top: 346px;
+}
+h1 {
+    position: absolute;
+width: 601px;
+height: 285px;
+left: 53px;
+top: 37px;
+
+font-family: "linotype didot";
+font-style: oblique;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+line-height: 42px; 
+color: #400000;
+}
+h2{
+    position: absolute;
+width: 443px;
+height: 469px;
+left: 968px;
+top: 535px;
+
+font-family: "linotype didot";
+font-style: oblique;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+line-height: 42px; 
+color: #400000;
+}
+body{
+    background-color: #832118;
+}
+.two:hover{
+opacity: 0.5;
+}

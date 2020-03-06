@@ -1,0 +1,20 @@
+.one{
+position: absolute;
+width: 1528px;
+height: 1019px;
+left: -44px;
+top: 0px;
+object-fit: cover;
+z-index: -1;
+}
+.two{  
+position: absolute;
+width: 448.86px;
+height: 451.67px;
+left: 516px;
+top: 288.09px;
+transform: rotate(-0.39deg);
+}
+.two:hover{
+    opacity: 0.5;
+}

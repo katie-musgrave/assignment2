@@ -1,0 +1,13 @@
+body{
+    background-color: #832118;
+}
+.two{
+    position: absolute;
+    width: 1203px;
+    height: 626px;
+    left: 118px;
+    top: 199px;  
+}
+.two:hover{
+    opacity: 0.5;
+}

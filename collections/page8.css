@@ -1,0 +1,52 @@
+.one{
+    position: absolute;
+    width: 720px;
+    height: 464px;
+    left: 683px;
+    top: 48px;  
+}
+.two{
+    position: absolute;
+    width: 911px;
+    height: 623px;
+    left: 38px;
+    top: 358px;  
+}
+h1{
+    position: absolute;
+    width: 601px;
+    height: 285px;
+    left: 49px;
+    top: 47px;
+    
+    font-family: "linotype didot";
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px; 
+    line-height: 42px; 
+    color: #400000;
+}
+h2{
+    position: absolute;
+    width: 443px;
+    height: 469px;
+    left: 975px;
+    top: 543px;
+    
+    font-family: "linotype didot";
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px; 
+    color: #400000;
+}
+body{
+    background-color: #832118;
+}
+.one:hover{
+opacity: 0.5;
+}
+.two:hover{
+    opacity: 0.5;
+}

@@ -1,0 +1,18 @@
+body{
+    background-image: url(images/horder.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    background-color: #832118;
+}
+img{
+    position: absolute;
+    width: 60%;
+    height: 10%;
+    margin-top: 400px;
+    margin-left: 275px;
+
+}
+
+        
