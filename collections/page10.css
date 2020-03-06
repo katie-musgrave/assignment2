@@ -1,0 +1,55 @@
+.one{
+    position: absolute;
+    width: 979px;
+    height: 370px;
+    left: 431px;
+    top: 24px;
+       
+}
+.two{ 
+    position: absolute;
+    width: 1002px;
+    height: 634px;
+    left: 51px;
+    top: 327px;
+}
+h1{
+    position: absolute;
+    width: 351px;
+    height: 268px;
+    left: 42px;
+    top: 32px;
+    
+    font-family: "linotype didot";
+    font-style: oblique;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px; 
+    line-height: 42px; 
+    color: #400000;
+}
+h2{
+   /* You are moved Harvey Dee */
+
+
+position: absolute;
+width: 351px;
+height: 268px;
+left: 1089px;
+top: 443px;
+
+font-family: "linotype didot";
+font-style: oblique;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+line-height: 42px; 
+color: #400000;
+ 
+}
+body{
+    background-color: #832118;
+}
+.two:hover{
+    opacity: 0.5;
+}

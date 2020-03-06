@@ -1,0 +1,32 @@
+.one{
+    position: absolute;
+    width: 831px;
+    height: 664px;
+    left: 835px;
+    top: 0px;
+}
+.two{
+    position: absolute;
+    width: 787px;
+    height: 507px;
+    left: 825px;
+    top: 664px;
+z-index: -1;
+}
+.three{
+    position: absolute;
+    width: 947px;
+    height: 1171px;
+    left: -57px;
+    top: 0px;
+}
+.four{
+    position: absolute;
+    width: 608px;
+    height: 256px;
+    left: 789px;
+    top: 701px;  
+}
+body{
+    background-color: #5a0e00;
+}
