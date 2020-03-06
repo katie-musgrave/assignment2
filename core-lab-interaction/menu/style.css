@@ -1,0 +1,45 @@
+
+body{
+    background-color: beige;
+}
+
+table {
+    width: 300px;
+    border-spacing: 10px;
+    margin:0;
+    padding:0;
+}
+h1 {
+    font-size: 35px;
+    font-family: avenir;
+    margin-left: 30px;
+    color: darkred;
+    
+}
+h2 {
+    font-size: 25px;
+    font-family: avenir;
+    color: darkred;
+    margin-left: 30px;
+
+}
+h4 {
+    font-size: 15px;
+    font-family: avenir; 
+    color: darkred;
+    margin-left: 30px;
+
+}
+h3 {
+    font-size: 20px;
+    margin-left: 30px;
+    color: darkred;
+    font-family: avenir;
+    font-style: oblique;
+}
+table {
+    font-size: 10px;
+    margin-left: 40px;
+    color: darkred;
+    font-family: avenir;
+}
