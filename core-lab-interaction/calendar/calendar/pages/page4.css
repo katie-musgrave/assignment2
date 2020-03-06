@@ -1,0 +1,25 @@
+img {
+    transform: rotate(90deg);
+    z-index: -1;
+    
+}
+h1 {
+    font-family: "avenir";
+    font-style: italic;
+    color: mediumaquamarine;
+    size: 16pt;
+}
+a{
+    text-decoration: none;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 80%;
+    left: 80%;
+    transform: translate(70%, -200%);
+  }

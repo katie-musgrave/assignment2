@@ -1,0 +1,27 @@
+h1 {
+    font-family: "avenir";
+    position: relative;
+    color: lightcoral;
+    font-size: 16pt;
+   margin-left: 1000px;
+   margin-top: 30px;
+  
+}
+
+a{
+margin-top: 30px;
+text-decoration: none;
+}
+
+
+body {
+    background-image: url(sheets.jpg);
+}
+h2{
+    font-family: "avenir";
+    position: relative;
+    color: lightcoral;
+    font-size: 16pt;
+    margin-top: 700px;
+    margin-left: 100px;
+}

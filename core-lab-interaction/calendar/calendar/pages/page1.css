@@ -1,0 +1,36 @@
+body {
+    background-color:#ede2be;
+}
+
+h1{
+    font-family: avenir;
+    font-size: 16pt;
+    color: #4436ff;
+    margin-left: 100px;
+    margin-top: 1px;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    font-family: "avenir";
+    color: #4436ff;
+    size: 40pt; 
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+img {
+
+    padding-left: 250px;
+    z-index: -1;
+  
+}
+h2 {
+    font-family: avenir;
+    font-size: 30pt;
+    color: #4436ff;
+    margin-left: 20px;
+    width:800px; 
+    height: 300px;
+}

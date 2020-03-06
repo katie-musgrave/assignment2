@@ -1,0 +1,31 @@
+
+body {
+    background-color: magenta;
+}
+h1 {
+    font-family: "didot";
+    font-style: italic ;
+    color: lightskyblue;
+    font-size: 40pt;
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+h2 {
+    font-family: "didot";
+    font-style: italic;
+    color: lightskyblue;
+    font-size: 20pt;
+    margin-left: 150px;
+}
+a {
+    text-decoration: none;
+}
+
+h3 {
+    font-family: "didot";
+    font-style: italic;
+    color: lightskyblue;
+    margin-left: 100px;
+    margin-top: 50px;
+}

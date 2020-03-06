@@ -1,0 +1,29 @@
+
+body{
+background-color:#181100;
+}
+img {
+    transform: rotate(90deg);
+    margin-left: 50px;
+    z-index: -1;
+   
+
+}
+.text{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+h1{
+    font-family: "times new roman";
+    font-style: italic;
+    font-size: 10pt;
+    color: goldenrod;
+
+}
+a{
+    text-decoration: none;
+}
+.text{
+    padding: 50px;
+}

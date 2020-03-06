@@ -1,0 +1,29 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+height: 800px;
+width: 800px;
+margin-left: 400px;
+margin-top: 200px;
+margin-bottom: 300px;
+    
+}
+img{
+    padding: 20px;
+}
+body{
+    background-color: #9b721d;
+}
+.text{
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-family: "times new roman";
+    font-style: italic;
+    font-size: 10pt;
+    color: goldenrod;
+}
+a{
+   text-decoration: none; 
+}
