@@ -1,0 +1,40 @@
+body {
+    color: darkmagenta;
+    background-color: yellow;
+}
+h1 {
+    font-family: avenir;
+    font-style: oblique;
+    font-size: 50pt; 
+    margin-left: 60px;
+    margin-top: 80px;
+}
+h2 {
+    font-family: avenir;
+    font-size: 20pt;
+    width: 800px;
+    text-align: justify;
+    margin-left: 80px;
+}
+h3 {
+    font-family: avenir;
+    font-size: 15pt;
+    margin-left: 10px;
+    
+}
+h6 {
+    font-family: avenir;
+    font-size: 15pt;
+    text-align: right;
+    
+
+
+}
+h5 {
+    font-family: avenir;
+    font-size: 20pt ;
+    width: 800px;
+    text-align: justify;
+   padding-left: 800px;
+   padding-right: 80px;
+}

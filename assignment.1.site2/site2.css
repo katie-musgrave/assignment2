@@ -1,0 +1,65 @@
+mark {
+    color: #d674a9; 
+}
+body {
+    background-color: #cc2229;
+}
+h1 {
+    font-family: futura;
+    font-style: bold;
+    font-size: 100pt;
+    margin-left: 100px;
+    padding-right: 300px;
+    padding-bottom: -10px;
+    letter-spacing: -3px;
+    color: #26b1ec;
+    
+}
+
+h2 {
+    font-family: futura;
+    font-style: oblique;
+    font-size: 30pt;
+    margin-left: 100px;
+    padding-right: 200px;
+    max-width: 800px;
+    text-align: justify;
+    color: #d674a9; 
+}
+h3 {
+    font-family: futura;
+    font-variant: small-caps;
+    font-size: 30pt;
+    margin-left: 100px;
+    max-width: 800px;
+    color: #d674a9; 
+}
+h4 {
+    font-family: futura;
+    font-style: bold; 
+    font-size: 85pt; 
+    text-align: right;
+    margin-right: 100px;
+    padding-left: 200px;
+    letter-spacing: -3px;
+    color:  #26b1ec;
+}
+h5 {
+    font-family: futura;
+    font-style: oblique;
+    font-size: 30pt;
+    padding-left: 200px;
+    margin-right:100px; 
+    text-align: justify;
+    color: #d674a9; 
+
+}
+h6 {
+    font-family: futura;
+    font-variant: small-caps;
+    font-size: 30pt;
+    margin-right: 100px;
+    text-align: right;
+    padding-left: 200px;
+    color: #d674a9; 
+}
